@@ -253,7 +253,7 @@ def draw_cosines_and_sines():
         circle.attach_to(window)
         window.render(0.05)
     window.close_on_mouse_click()
-    
+
 
 # ----------------------------------------------------------------------
 # If this module is running at the top level (as opposed to being
